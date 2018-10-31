@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test simple pour vérifier la première page du site</description>
+   <name>TestPageAccueil</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1beaf348-1ce3-46e8-87d8-37782039c0c2</testCaseGuid>
+</TestCaseEntity>
